@@ -1,0 +1,7 @@
+--- Dicas de git (e do bash tambem) ---
+Verificar em que pasta estamos:
+pwd
+Exibir lista de arquivos:
+ls
+Verificar o status do repositorio:
+git status
